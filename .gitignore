@@ -1,3 +1,9 @@
+#.DS_store 
+**/.DS_Store
+
+#Node_Modules
+node_modules/
+
 # Logs
 logs
 *.log
