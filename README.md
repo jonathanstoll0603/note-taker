@@ -10,7 +10,7 @@ Built with Express for full back-end functionality and data storage.
 
 The Note Taker is an application that allows users to write, save, and delete notes that can be easily stored and retrieved from a remote server. The notes are saved via JSON objects that each have a unique Id attributed to them (via Uniqid's npm package) for back-end retrieval. The server is run using Express.js which allows for efficient storage via Express' middleware technology. 
 
-A live version of the application can be found via ![heroku](https://afternoon-badlands-80099.herokuapp.com/)
+A live version of the application can be found via [heroku](https://afternoon-badlands-80099.herokuapp.com/)
 
 Example screenshots of the application can also be found below: 
 
